@@ -1,4 +1,5 @@
 # Sentiment Analysis on the 2020 presidential elections using AWS
+The included code files are the ones I used to deploy the sentiment analysis model(Roberta) using Amazon Sagemaker and the csv files are the output of the two sentiment analysis I made using Amazon Sagemaker(Roberta) and Amazon Comprehend.
 
 ## Data
 Kaggle dataset link: https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets?resource=download
